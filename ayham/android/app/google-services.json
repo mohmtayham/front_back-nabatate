@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503214777250",
+    "project_id": "ayhamproject-758e8",
+    "storage_bucket": "ayhamproject-758e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503214777250:android:9d4ceee1cd5a7afcedc8fb",
+        "android_client_info": {
+          "package_name": "com.example.nabtatcompany"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF6eWusHG2XvqOLhNwHqMOuSeeR10xQ_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503214777250:android:60c9e575c20e770cedc8fb",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF6eWusHG2XvqOLhNwHqMOuSeeR10xQ_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
